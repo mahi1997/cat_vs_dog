@@ -1,0 +1,59 @@
+wifi - codalab307
+
+
+////////////////////////////////
+
+1.. A ResNet50 CNN that classifies 3D objects given 2D images
+
+https://github.com/ryanpolsky/Image-Classification-CNN
+  Hardware :
+  The Deep Learning AMI EC2 instance from AWS was used to train/test the data: 
+  https://aws.amazon.com/marketplace/pp/B06VSPXKDX
+
+
+2.. https://github.com/timzhang642/3D-Machine-Learning
+
+3.. https://github.com/EJShim/EJModelNet
+
+4.. https://github.com/timzhang642/3D-Machine-Learning    link for 3D object data
+
+5.. http://www.socher.org/index.php/Main/Convolutional-RecursiveDeepLearningFor3DObjectClassification
+
+/////////Torch project volumetric
+1.. https://github.com/charlesq34/3dcnn.torch
+2.. torch installation   http://torch.ch/docs/getting-started.html
+
+//////////////Tensarlow project ///////////
+3.. https://github.com/meetshah1995/tf-3dgan   3d object classification using tensarflow 
+
+//////////////////////////** ML PPT ** /////////////////
+
+1.. https://vimeo.com/237274640
+
+///////////////// Learning tensarflow
+
+
+1.. https://www.tensorflow.org/tutorials/layers  tensarboard visualising learning
+2.. https://pythonprogramming.net/convolutional-neural-network-kats-vs-dogs-machine-learning-tutorial/   learning tenarflow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////Compiler   project //////////////////////////
+1. https://github.com/lsegal/my_toy_compiler   toy compiler implementation
+
+
+///////////////////// ML ////////////////////////////////
+1.  https://github.com/tflearn/tflearn
